@@ -5,9 +5,6 @@ A Simple and Efficient Web-Based Note-taking App in Go.
 ### Go
 ### Mongo
 
-## TODO : Dockerize , more features - Created time, support to store URL link
-
-
 # Installation
 Make sure Docker and Docker Compose installed
 
